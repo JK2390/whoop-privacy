@@ -1,2 +1,2 @@
 # whoop-privacy
-Personal whoop developer application
+Privacy policy for personal whoop developer application.
